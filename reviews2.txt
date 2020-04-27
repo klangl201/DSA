@@ -1,0 +1,4 @@
+1,"Le Bistro","Glasgow"5
+2,"Court and Spark","Edinburgh"2
+3,"Food Inc","Glasgow"1
+4,"Dells","Glasgow"1
